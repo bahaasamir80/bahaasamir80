@@ -29,7 +29,7 @@ School management system <br>
    ## 🧂 Programming Tools
     
 Database Layer Software (SQL Server Database) With C# <br>
-Standard Form Generator Software (SQL Server Database) With C# <br>
+Standard Code Form Generator Software (SQL Server Database) With C# <br>
 Barcode 139,128 binary Generator Software With C# <br>
 Qrcode 139,128 binary Generator Software With C# <br>
 
