@@ -8,7 +8,7 @@ My recent projects include developing scalable database layers, designing custom
 
 ## 👨‍💻 Work Experience
 Database Developer,DBA & ,Net Desktop and Web Developer ,Team Lead ,Project Manager  <br>
-American Dream ,Super Systems ,Saudi for Programming ,Ait ,Alqemam Softzone,Synergy Globa  <br>
+American Dream ,Super Systems ,Ait ,Saudi for Programming ,Alqemam Softzone,Synergy Globa  <br>
 Cairo ,Mansoura (Egypt) - Online (Saudi Arabia)
 
 ---
