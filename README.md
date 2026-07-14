@@ -13,9 +13,8 @@ Team Lead ,Project Manager <br>
 American Dream ,Super Systems ,Ait ,Alqemam Softzone - Cairo ,Mansoura (Egypt) <br>
 Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 
----
-
-## ✨ Projects 
+   ## ✨ Projects 
+   
 - Sales ,Purchases ,Stores And Accounting Software (SQL Server Database & Oracle Database) With VB6 , C# (Desktop ,.Net Mvc , .Net Mvc Core) <br>
 - Lawyers Software With VB6 , C# (Desktop ,.Net Mvc)<br>
 - Attendance and salaries (Hr) Software (SQL Server Database) With C# (Desktop , .Net Mvc Core) <br>
