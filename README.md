@@ -47,7 +47,8 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 - .Net Desktop Applications
 - Asp .Net MVC
 - Asp .Net Core With Entity Framework
-
+- Javascript
+  
 ##
 
    # 🛢️ Database
