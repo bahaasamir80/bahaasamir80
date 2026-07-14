@@ -8,19 +8,19 @@ My recent projects include developing scalable database layers, designing custom
 
 ## 👨‍💻 Work Experience
 Database Developer,DBA & ,Net Desktop and Web Developer ,Team Lead ,Project Manager  <br>
-American Dream ,Super Systems ,Ait ,Saudi for Programming ,Alqemam Softzone,Synergy Globa  <br>
-Cairo ,Mansoura (Egypt) - Online (Saudi Arabia)
-
+American Dream ,Super Systems ,Ait ,Alqemam Softzone - Cairo ,Mansoura (Egypt) <br>
+Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
+ 
 ---
 
 ## ✨ Projects 
-Design and Develop Sales , Purchases And Stores Software (SQL Server Database & Oracle Database) With Clipper ,VB6 , C# <br>
-Design and Develop Lawyers Software With VB6 , C# <br>
-Design and Develop Attendance and salaries Software (SQL Server Database) With C# <br>
-Designing and Develop Database Layer Software (SQL Server Database) With C# <br>
-Design and Develop Standard Form Generator Software (SQL Server Database) With C# <br>
-Design and Develop Code And Files Library Web Site ! (SQL Server Database) With C# <br>
-Design and Develop Charity Software (SQL Server Database) With C# <br>
-Design and Develop Barcode 139,128 Generator Software With C# <br>
-Participated With a Group In Pharmaceutical Companies Software (SQL Server Database) With VB6 , C# <br>
-Participated With a Group In Clinic Software (SQL Server Database) With C# <br>
+Sales , Purchases And Stores Software (SQL Server Database & Oracle Database) With Clipper ,VB6 , C# <br>
+Lawyers Software With VB6 , C# <br>
+Attendance and salaries (Hr) Software (SQL Server Database) With C# <br>
+Database Layer Software (SQL Server Database) With C# <br>
+Standard Form Generator Software (SQL Server Database) With C# <br>
+Code And Files Library Web Site ! (SQL Server Database) With C# <br>
+Charity Software (SQL Server Database) With C# <br>
+Barcode 139,128 binary Generator Software With C# <br>
+Pharmaceutical Companies Software (SQL Server Database) With VB6 , C# <br>
+Clinic Software (SQL Server Database) With C# <br>
