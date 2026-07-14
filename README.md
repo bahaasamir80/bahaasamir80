@@ -31,5 +31,5 @@ Code And Files Backup & Library AS Web Site With (SQL Server Database) C# <br>
 Database Layer Software (SQL Server Database) With C# <br>
 Standard Code Form Generator Software (SQL Server Database) With C# <br>
 Barcode 139,128 binary Generator Software With C# <br>
-Qrcode 139,128 binary Generator Software With C# <br>
+Qrcode Generator Software With C# <br>
 
