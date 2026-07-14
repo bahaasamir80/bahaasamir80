@@ -8,7 +8,7 @@ My recent projects include developing scalable database layers, designing custom
 
 ## 👨‍💻 Work Experience
 Database Designer ,Developer ,DBA  <br>
-Net Desktop and Web Developer <br>
+.Net Desktop and Web Developer <br>
 Team Lead ,Project Manager <br>
 American Dream ,Super Systems ,Ait ,Alqemam Softzone - Cairo ,Mansoura (Egypt) <br>
 Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
