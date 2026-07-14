@@ -16,7 +16,7 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 ---
 
 ## ✨ Projects 
-Sales , Purchases And Stores Software (SQL Server Database & Oracle Database) With Clipper ,VB6 , C# <br>
+Sales , Purchases And Stores Software (SQL Server Database & Oracle Database) With VB6 , C# <br>
 Lawyers Software With VB6 , C# <br>
 Attendance and salaries (Hr) Software (SQL Server Database) With C# <br>
 Database Layer Software (SQL Server Database) With C# <br>
