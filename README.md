@@ -43,7 +43,7 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 
 ## ⚙️ Tech Stack
 
-   # Programming C#
+   # ⌨ Programming C#
 - .Net Desktop Applications
 - Asp .Net MVC
 - Asp .Net Core With Entity Framework
@@ -57,7 +57,7 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 
 ##
 
-   # Reporting
+   # 📑 Reporting
    - Crystal Reports
    - SQL Server Reporting Services (SSRS)
 
