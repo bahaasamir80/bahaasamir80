@@ -16,20 +16,22 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 ---
 
 ## ✨ Projects 
-Sales , Purchases And Stores Software (SQL Server Database & Oracle Database) With VB6 , C# <br>
-Lawyers Software With VB6 , C# <br>
-Attendance and salaries (Hr) Software (SQL Server Database) With C# <br>
-Charity Software (SQL Server Database) With C# <br>
-Pharmaceutical Companies Software (SQL Server Database) With VB6 , C# <br>
-Hospital management system <br>
-Clinic Software (SQL Server Database) With C# <br>
-School management system <br>
-Code And Files Backup & Library AS Web Site With (SQL Server Database) C# <br>
+- Sales ,Purchases ,Stores And Accounting Software (SQL Server Database & Oracle Database) With VB6 , C# (Desktop ,.Net Mvc , .Net Mvc Core) <br>
+- Lawyers Software With VB6 , C# (Desktop ,.Net Mvc)<br>
+- Attendance and salaries (Hr) Software (SQL Server Database) With C# (Desktop , .Net Mvc Core) <br>
+- Charity Software (SQL Server Database) With C# (Desktop ,.Net Mvc Core) <br>
+- Pharmaceutical Companies Software (SQL Server Database) With VB6 , C# (Desktop ,.Net Mvc , .Net Mvc Core) <br>
+- Hospital management system (Desktop ,.Net Mvc , .Net Mvc Core) <br>
+- Clinic Software (SQL Server Database) (Desktop ,.Net Mvc) With C# <br>
+- School management system (.Net Mvc , .Net Mvc Core) <br>
+- Correspondence Management System (CMS)  (SQL Server & Oracel Databases) With C# (.Net Mvc Core) <br>
+- Customer Relationship Management system (CRM) For Pharmaceutical Companies (SQL Server) With C# (.Net Mvc Core)  <br>
+- Code And Files Backup & Library AS Web Site With (SQL Server Database) C# <br>
 
    ## 🧂 Programming Tools
     
-Database Layer Software (SQL Server Database) With C# <br>
-Standard Code Form Generator Software (SQL Server Database) With C# <br>
-Barcode 139,128 binary Generator Software With C# <br>
-Qrcode Generator Software With C# <br>
+- Database Layer Software (SQL Server Database) With C# <br>
+- Standard Code Form Generator Software (SQL Server Database) With C# <br>
+- Barcode 139,128 binary Generator Software With C# <br>
+- Qrcode Generator Software With C# <br>
 
