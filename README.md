@@ -5,10 +5,10 @@ Check Database Performance ,Backup And Maintenance Planes <br>
 Led and mentored a Teams of Developers ,Testers(QC), And Requirement <br>
 Managed multiple projects (Project development & from scratch) <br>
 
-Database Design ,Devolop,maintenance, and troubleshooting. <br>
+Database Design ,Devolop,maintenance and troubleshooting. <br>
 database backup strategies and disaster recovery plans. <br>
 troubleshooting and resolving database errors. <br>
-performance issues,capacity and data replication issues. <br>
+performance issues ,capacity and data replication issues. <br>
 
 With over 20 years of experience in software development, I specialize in designing and implementing robust database solutions and ERP full stack .NET applications. As One Of team,team leader,Project Manage And a dedicated freelancer, I focus on delivering high-quality solutions powered by my expertise in Microsoft SQL Server, ASP.NET, MVC frameworks and ASP.NET Core MVC My commitment to providing tailored software applications has allowed me to support businesses in streamlining their operations and achieving their goals. <br>
 
