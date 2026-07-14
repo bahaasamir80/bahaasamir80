@@ -43,11 +43,15 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 
 ## ⚙️ Tech Stack
 
+   # Programming
 - .Net Desktop Applications
 - Asp .Net MVC
 - Asp .Net Core With Entity Framework
 
-  ##
+##
+
+   # Database
+  
 
   
 
