@@ -28,7 +28,7 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 - Hospital management system (Desktop ,.Net Mvc , .Net Mvc Core) <br>
 - Clinic Software (SQL Server Database) (Desktop ,.Net Mvc) With C# <br>
 - School management system (.Net Mvc , .Net Mvc Core) <br>
-- Correspondence Management System (CMS)  (SQL Server & Oracel Databases) With C# (.Net Mvc Core) <br>
+- Correspondence Management System (CMS)  (SQL Server & Oracle Databases) With C# (.Net Mvc Core) <br>
 - Customer Relationship Management system (CRM) For Pharmaceutical Companies (SQL Server) With C# (.Net Mvc Core)  <br>
 - Code And Files Backup & Library AS Web Site With (SQL Server Database) C# <br>
 
@@ -43,7 +43,7 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 
 ## ⚙️ Tech Stack
 
-   # Programming
+   # Programming C#
 - .Net Desktop Applications
 - Asp .Net MVC
 - Asp .Net Core With Entity Framework
@@ -51,11 +51,15 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 ##
 
    # Database
-  
+   - Ms SqlServer
+   - Oracle
+   - MySql
 
-  
+##
 
-
+   # Reporting
+   - Crystal Reports
+   - SQL Server Reporting Services (SSRS)
 
 
 
