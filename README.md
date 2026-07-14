@@ -39,3 +39,16 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 - Barcode 139,128 binary Generator Software With C# <br>
 - Qrcode Generator Software With C# <br>
 
+---
+
+## ⚙️ Tech Stack
+
+.Net Desktop Applications
+Asp .Net MVC
+Asp .Net Core With Entity Framework
+
+--
+
+
+
+
