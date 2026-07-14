@@ -50,7 +50,7 @@ Synergy Global,Saudi for Programming - Online (Saudi Arabia) <br>
 
 ##
 
-   # Database
+   # 🛢️ Database
    - Ms SqlServer
    - Oracle
    - MySql
