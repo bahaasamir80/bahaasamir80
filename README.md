@@ -7,22 +7,20 @@ My recent projects include developing scalable database layers, designing custom
 ---
 
 ## 👨‍💻 Work Experience
-Database Developer,DBA & ,Net Desktop and Web Developer ,Team
-Lead,Project Manager, American Dream ,Super Systems ,Saudi for
-Programming ,Ait ,Alqemam Softzone,Synergy Globa, Cairo and
-Mansoura,Egypt - Online Saudi Arabia
+Database Developer,DBA & ,Net Desktop and Web Developer ,Team Lead ,Project Manager  <br>
+American Dream ,Super Systems ,Saudi for Programming ,Ait ,Alqemam Softzone,Synergy Globa  <br>
+Cairo ,Mansoura (Egypt) - Online (Saudi Arabia)
 
 ---
 
 ## ✨ Projects 
 Design and Develop Sales , Purchases And Stores Software (SQL Server Database & Oracle Database) With Clipper ,VB6 , C# <br>
-
-Design and Develop Lawyers Software With VB6 , C#
-Design and Develop Attendance and salaries Software (SQL Server Database) With C#
-Designing and Develop Database Layer Software (SQL Server Database) With C#
-Design and Develop Standard Form Generator Software (SQL Server Database) With C#
-Design and Develop Code And Files Library Web Site ! (SQL Server Database) With C#
-Design and Develop Charity Software (SQL Server Database) With C#
-Design and Develop Barcode 139,128 Generator Software With C#
-Participated With a Group In Pharmaceutical Companies Software (SQL Server Database) With VB6 , C#
-Participated With a Group In Clinic Software (SQL Server Database) With C#
+Design and Develop Lawyers Software With VB6 , C# <br>
+Design and Develop Attendance and salaries Software (SQL Server Database) With C# <br>
+Designing and Develop Database Layer Software (SQL Server Database) With C# <br>
+Design and Develop Standard Form Generator Software (SQL Server Database) With C# <br>
+Design and Develop Code And Files Library Web Site ! (SQL Server Database) With C# <br>
+Design and Develop Charity Software (SQL Server Database) With C# <br>
+Design and Develop Barcode 139,128 Generator Software With C# <br>
+Participated With a Group In Pharmaceutical Companies Software (SQL Server Database) With VB6 , C# <br>
+Participated With a Group In Clinic Software (SQL Server Database) With C# <br>
